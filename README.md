@@ -8,10 +8,15 @@ Tư vấn tuyển sinh là app dùng database và cần kết nối internet. (m
 
 ### sử dụng
 pip install SpeechRecognition==1.2.2
+
 pip install wheel
+
 pip install pipwin
+
 pip install pyttsx3
+
 pip install speechrecognition
+
 
 
 ### Tính năng hiện tại
