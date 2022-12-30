@@ -6,10 +6,10 @@ Tư vấn tuyển sinh là app open-source với chức năng chính là thêm, 
 
 Tư vấn tuyển sinh là app dùng database và cần kết nối internet. (mysql workbench)
 
-### sử dụng pip install SpeechRecognition==1.2.2
+### sử dụng
+pip install SpeechRecognition==1.2.2
 pip install wheel
 pip install pipwin
-pipwin install pyaudio
 pip install pyttsx3
 pip install speechrecognition
 
